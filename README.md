@@ -23,4 +23,5 @@ Calculate total sales incurred by each month
 ![Query Output](https://github.com/junaidnaeem-carleton/Sales-Data-Analysis/blob/main/nt2.png?raw=true)
 
 Visualizing it on Tableau
+![Query Output](https://github.com/junaidnaeem-carleton/Sales-Data-Analysis/blob/main/new_tab3.png?raw=true)
 
