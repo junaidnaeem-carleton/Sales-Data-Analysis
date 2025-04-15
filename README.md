@@ -11,3 +11,16 @@ Also, it is pertinent to calculate purchasing power
 
 ![Query Output](https://github.com/junaidnaeem-carleton/Sales-Data-Analysis/blob/main/new_tab2.png?raw=true)
 
+
+Calculate total sales incurred by each month
+
+![Query Output](https://github.com/junaidnaeem-carleton/Sales-Data-Analysis/blob/main/newtab4.png?raw=true)
+
+![Query Output](https://github.com/junaidnaeem-carleton/Sales-Data-Analysis/blob/main/newtab5.png?raw=true)
+
+![Query Output](https://github.com/junaidnaeem-carleton/Sales-Data-Analysis/blob/main/nt1.png?raw=true)
+
+![Query Output](https://github.com/junaidnaeem-carleton/Sales-Data-Analysis/blob/main/nt2.png?raw=true)
+
+Visualizing it on Tableau
+
